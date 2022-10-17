@@ -39,7 +39,7 @@ echo "x"
 echo "x"
 WRITE
 PUT 10 42
-echo -e "\e[35mScript Designed By \e[33mREAZ\e[0m"
+echo -e "\e[35mDesigned By \e[33mREAZ\e[0m"
 PUT 12 0
 echo
 NORM
